@@ -1,0 +1,11 @@
+source,target,type
+Aegon V,Jaehaerys II,PARENT_OF
+Jaehaerys II,Aerys II,PARENT_OF
+Jaehaerys II,Rhaella,PARENT_OF
+Aerys II,Rhaegar,PARENT_OF
+Rhaella,Rhaegar,PARENT_OF
+Aerys II,Viserys,PARENT_OF
+Rhaella,Viserys,PARENT_OF
+Aerys II,Daenerys,PARENT_OF
+Rhaella,Daenerys,PARENT_OF
+Rhaegar,Jon Snow,PARENT_OF
