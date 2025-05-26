@@ -16,7 +16,7 @@ sifra  ime  god  spol  prezime
 11111177777	Sansa	286	Ž	Stark
 11111188888	Arya	289	Ž	Stark
 11111199999	Bran	290	M	Stark
-22222211111	Rickon	295 M	Stark
+22222211111	Rickon	295  M	Stark
 22222233333	Catelyn	264	Ž	Stark
 22222244444	Lysa	266	Ž	Arryn
 22222255555	Petyr	268	M	Baelish
