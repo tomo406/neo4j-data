@@ -1,3 +1,4 @@
+sifra  ime  god  spol  prezime
 11111111111	Daenerys	284	Ž	Targaryen
 22222222222	Doran	247	M	Martell
 33333333333	Oberyn	281	M	Martell
